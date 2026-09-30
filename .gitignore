@@ -12,3 +12,11 @@ docs/
 
 # Dotenv file
 .env
+node_modules
+
+node_modules/
+artifacts_hardhat/
+cache_hardhat/
+broadcast/
+standard-json-input.json
+.env

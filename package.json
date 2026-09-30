@@ -1,5 +1,12 @@
 {
+  "scripts": {
+    "test:hardhat": "hardhat test test/VotingContract.test.js"
+  },
   "dependencies": {
     "@openzeppelin/contracts": "^5.6.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
   }
 }
